@@ -1,0 +1,13 @@
+INFO:     127.0.0.1:50375 - "OPTIONS /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50375 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50375 - "OPTIONS /session-data HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50375 - "GET /session-data HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64162 - "OPTIONS /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64162 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54444 - "OPTIONS /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54444 - "POST /login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54444 - "GET /session-data HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51833 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63887 - "OPTIONS /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63887 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64787 - "POST /login HTTP/1.1" 200 OK
